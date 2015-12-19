@@ -1,0 +1,59 @@
+	body {background-color:#000; color: #03f; font-family:arial; font-size:12px; font-weight:bold; margin:10px auto; text-align:center;width:800px}
+	.contentHolder {margin:0 auto; text-align:center;}
+	a {color:#f00; font-weight:bold; text-decoration:none}
+	a:hover {color:#f00; text-decoration:underline}
+	.topnav {color:#03f; font-family:arial; font-size:14px; font-weight:bold; margin-bottom:20px; text-align:center}
+	.topnav a {color:#03f; font-weight:bold; padding:0 15px; text-decoration:none}
+	.topnav a:visited {color:#09f; text-decoration:none}
+	.topnav a:hover {color:#fff; text-decoration:none}
+	.colA {float:left; text-align:left}
+	.colB {float:right}
+	ul {list-style:none;text-indent:0;margin:0;padding:0}
+
+
+	#audioPage h3 {display:inline;font-size:14px;margin:0;}
+	#audioPage h4 {clear:both;margin:12px auto}
+	#audioPage h5 {display:inline;font-size:10px}
+	#audioPage ul {float:left;width:350px}
+	#audioPage ul li img {border:0;}
+	#audioPage ul.odd, #audioPage ul.even {margin:10px 25px 0}
+	#audioPage ul.odd {clear:left;text-align:right}
+	#audioPage ul.even {text-align:left}
+	#audioPage ul.even.last {margin:70px 0 200px -20px;}
+	
+
+
+
+	
+
+	/*#audioPage .third {float:left; width:33%}
+	#audioPage .third p {margin:5px 0 10px 0}  
+	#audioPage .alignL {text-align:left}
+	#audioPage .alignR {text-align:right}
+	#audioPage .alignC {text-align:center}*/
+
+
+
+	.clear {clear:both}
+	
+	.footer {clear:both;color:#03f; font-family:arial; font-size:10px; font-weight:bold; margin-top:20px; text-align:center}
+	
+	/* photo page */
+	.thumbHolder {color:#03f; float:left; text-align:left; width:100px}
+	.thumbHolder #left {margin-right:10px}
+	.thumbHolder img {border:1px solid #f00; float:left; margin-bottom:3px}
+	.thumbHolder a {color:#f00}
+	
+	.pageNum {color:#ccc; font-size:14px}
+	.pageNum a {color:#fff; text-decoration:underline}
+	.pageNum a:visited {color:#fff; text-decoration:underline}
+	.pageNum a:hover {color:#fcc; text-decoration:underline}
+	#wrap {float:left; position:relative; top:0px; left:30px;width:600px}
+	#imageHolder {background-image: url(images/loading.gif);background-repeat: no-repeat; background-position:center; float:left; position:relative; top:0px; left:30px; width:600px}/*color:#0033ff;*/
+	#imageHolder img {border:3px solid #ccc; padding:2px}
+	#caption {color:#ccc; font-family:verdana; font-weight:bold; font-size:14px; margin-bottom:5px; text-align:center}
+	#shows {text-align:left;width:650px}
+	#shows img {float:left; margin:0 20px 20px 0}
+	#shows img a{border:1px solid #f00}
+	.showDate {color:#ccc; font-size:14px}
+	.showHeadline {color:#eee; font-size:14px; text-decoration:underline}
